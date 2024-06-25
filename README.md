@@ -1,6 +1,6 @@
 # 📚 Curso de Análise de Dados da EBAC
 
-Este repositório foi criado para compartilhar meus exercícios realizados durante o curso da EBAC. Aqui, inicio minha jornada de aprendizado na área de Tecnologia da Informação, com foco em análise de dados. Sinta-se à vontade para explorar os diferentes exercícios e projetos, e acompanhar meu progresso no desenvolvimento de habilidades em análise de dados. 📈🚀
+Este repositório foi criado para compartilhar meus exercícios realizados durante o curso da EBAC. Aqui, inicio minha jornada de aprendizado na área de Tecnologia da Informação, com foco em análise de dados. Sinta-se à vontade para explorar os diferentes exercícios, e acompanhar meu progresso no desenvolvimento de habilidades em análise de dados. 📈🚀
 
 ## 📈 Explore o Repositório
 
