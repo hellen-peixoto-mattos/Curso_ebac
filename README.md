@@ -21,7 +21,6 @@ O curso de Análise de Dados da EBAC Online oferece uma abordagem abrangente dos
 *   Manipulação e Limpeza de Dados;
 *   Visualização de Dados;
 *   Machine Learning;
-*   Aprendizado de Máquina;
 *   Insights.
 
 ## 🤝 Conecte-se Comigo
